@@ -1,4 +1,5 @@
 /*
+ * AI-assisted code with some improvements for a tailored functionality
  * Automatic Plant Watering System
  * ESP32 — 4 pumps via MOSFETs
  *
