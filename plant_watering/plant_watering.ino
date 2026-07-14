@@ -18,7 +18,7 @@
 
 // ── WiFi credentials ──────────────────────────────────────────
 const char* WIFI_SSID     = "PLAY_Swiatlowodowy_9406";
-const char* WIFI_PASSWORD = "Wkker6gfFb#4";
+const char* WIFI_PASSWORD = "XXX";
 
 // ── NTP settings ──────────────────────────────────────────────
 const char* NTP_SERVER          = "pool.ntp.org";
